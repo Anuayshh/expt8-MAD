@@ -146,6 +146,9 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/dbba9d85-1261-41a9-b870-6b72378de083)
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/5a96bb64-6e23-4e8d-9432-c1703c2d8cc6)
 
+![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/9b4a9276-ccde-4044-9572-cb3ec68f3cb3)
+
+
 
 ## RESULT:
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
