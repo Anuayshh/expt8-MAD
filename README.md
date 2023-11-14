@@ -1,4 +1,7 @@
 # Ex.No:8 To create a gallery control using android studio to display images or photos.
+
+## DATE : 10/10/2023
+
 ##  AIM:
 To create a gallery control using android studio to display images or photos.
 
@@ -6,19 +9,32 @@ To create a gallery control using android studio to display images or photos.
 Latest Version Android Studio
 
 ## ALGORITHM:
-Step 1: Open Android Studio and then click on File -> New -> New project. 
+### Step 1:
+Open Android Studio and then click on File -> New -> New project. 
 
-Step 2: Then type the Application name as “gallery control” and click Next. 
+### Step 2:
+Then type the Application name as “gallery control” and click Next. 
 
-Step 3: Then select the Minimum SDK as shown below and click Next. Step 4: Then select the Empty Activity and click Next. Finally click Finish. Step 5: Design layout in activity_main.xml. Step 6: Get contacts details and Display details give in MainActivity file. Step 7: Save and run the application
+### Step 3:
+Then select the Minimum SDK as shown below and click Next.
+
+### Step 4: 
+Then select the Empty Activity and click Next. Finally click Finish. 
+
+### Step 5: 
+Design layout in activity_main.xml. 
+
+### Step 6:
+Get contacts details and Display details give in MainActivity file.
+
+### Step 7:
+Save and run the application
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “GalleryControl”.
 Developed by:V R ANU AYSHWARYA
 Registeration Number :212221040016
-*/
 ```
 ## activity_main.xml
 ```
@@ -123,7 +139,7 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
         return imageView;
     } }
 ```
-## OUTPUT
+## OUTPUT:
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/79d99966-d27f-4df7-a21b-1caa1687fddf)
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/add7461d-0b07-4d50-8ebb-c0995e9ca10f)
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/d028e70b-a237-4bac-8e7b-960a6d1ff8d4)
@@ -131,5 +147,5 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
 ![image](https://github.com/Anuayshh/expt8-MAD/assets/127651217/5a96bb64-6e23-4e8d-9432-c1703c2d8cc6)
 
 
-## RESULT
+## RESULT:
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
